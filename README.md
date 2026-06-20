@@ -15,11 +15,3 @@ Hi, I'm Jelam.<br><br>I am a Computer Engineering student passionate about Web D
 ![](https://github-readme-stats.shion.dev/api?username=Jelamrraval&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Jelamrraval&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jelamrraval&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jelamrraval&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Jelamrraval&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
