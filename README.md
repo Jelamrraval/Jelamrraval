@@ -3,8 +3,6 @@ Hi, I'm Jelam.<br><br>I am a Computer Engineering student passionate about Web D
 
 
 ## 🌐 Socials:
-## 🌐 Socials
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DivineDiary.JR)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JelamRRaval)
