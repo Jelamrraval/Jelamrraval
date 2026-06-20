@@ -1,6 +1,21 @@
 # 💫 About Me:
-Hi, I'm Jelam.<br><br>I am a Computer Engineering student passionate about Web Development, Software Engineering, Artificial Intelligence, and continuous learning.<br><br>My learning journey includes certifications in Git & GitHub Expert, NSDC-Approved Machine Learning with AI, Data Science and Data Analytics, Generative AI, Cybersecurity Awareness, Digital Forensics, Project Management, Efficient Leadership, Critical Thinking in AI, and English Communication.<br><br>I have also completed certifications and training in Python, JavaScript, Java Fundamentals, C Programming, Object-Oriented Programming, SQL, HTML, CSS, and modern web development technologies.<br><br>Currently, I am focused on Full-Stack Web Development using Python and Django while building practical projects and strengthening my software development knowledge through hands-on experience.<br><br>Beyond technology, I manage a devotional content platform where I share spiritual and inspirational content, combining creativity, consistency, and community engagement.<br><br>I am always eager to learn new technologies, contribute to meaningful projects, collaborate with developers, and explore opportunities that help me grow as a software engineer.<br><br>Fun Fact:<br>Alongside coding and technology, I enjoy creating devotional content and documenting my learning journey while continuously improving both my technical and personal skills.<br>
+Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
+* 💻 Passionate about Web Development, Software Engineering & Artificial Intelligence
+* 🚀 Currently learning Full-Stack Development with Python & Django
+* 🌐 Skilled in HTML, CSS, JavaScript, Python, Java, C Programming, SQL & Object-Oriented Programming (OOP)
+* 📚 Certified in Git & GitHub Expert, **NSDC (National Skill Development Corporation) Certified in Machine Learning with AI**, Data Science & Data Analytics
+* 🤖 Certified in Generative AI, Critical Thinking in AI, Cybersecurity Awareness & Digital Forensics
+* 📋 Certified in Project Management, Efficient Leadership, English Communication & Professional Skills
+* 🛠️ Building real-world projects to strengthen software development expertise
+* 📈 Focused on continuous learning, problem-solving, and hands-on experience
+* 🤝 Interested in collaboration, innovation, and meaningful technology projects
+* 📿 Creator of a devotional content platform sharing spiritual and inspirational content
+* ✨ Combining technology, creativity, consistency, and community engagement
+* 🎯 Aspiring Software Engineer committed to lifelong learning and professional growth
 
+### Fun Fact
+
+* 🌷 Alongside coding and technology, I enjoy creating devotional content, documenting my learning journey, and continuously improving both my technical and personal skills. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DivineDiary.JR)
