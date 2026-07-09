@@ -13,7 +13,7 @@ Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
 * ✨ Combining technology, creativity, consistency, and community engagement
 * 🎯 Aspiring Software Engineer committed to lifelong learning and professional growth
 
-## 🏆 Certifications
+## 💼 Experience
 
 -  Python with Django Internship Certificate
 -  Tata GenAI Powered Data Analytics Job Simulation
