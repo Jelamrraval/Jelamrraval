@@ -16,9 +16,9 @@ Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
 ## 💼 Experience
 
 -  Python with Django Internship Certificate
--  Tata GenAI Powered Data Analytics Job Simulation
--  Tata Data Visualisation: Empowering Business with Effective Insights
--  Deloitte Cyber Job Simulation
+-  Tata GenAI Powered Data Analytics 
+-  Tata Data Visualisation
+-  Deloitte Cyber 
 -  Machine Learning with AI (NSDC)
 
 ### Fun Fact
