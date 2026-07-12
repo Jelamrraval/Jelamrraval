@@ -1,5 +1,3 @@
-
-```
 # 💫 About Me:
 Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
 * 💻 Passionate about Web Development, Software Engineering & Artificial Intelligence
