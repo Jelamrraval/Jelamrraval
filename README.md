@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
+Hi, I'm Jelam Raval.<br><br> **🎓 Computer Engineering Student**
 * 💻 Passionate about Web Development, Software Engineering & Artificial Intelligence
 * 🚀 Currently learning Full-Stack Development with Python & Django
 * 🌐 Skilled in HTML, CSS, JavaScript, Python, Java, C Programming, SQL & Object-Oriented Programming (OOP)
