@@ -1,80 +1,3 @@
-# 👋 Hi, I'm Jelam Raval
-<p align="center"> <img src="https://readme-typingsvg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCent er=true&width=900&lines=Computer+Engineering+Student;Python+%7C+Django+Developer;Future+AI+Engineer;Ful l+Stack+Learner;Always+Learning+🚀" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
-</p> # 💫 About Me
-- 🎓 Diploma Computer Engineering Student - 💻 Passionate about Web Development, Python, Django & AI - 🚀 Currently learning Full Stack Development - 🌱 Practicing DSA & LeetCode - ❤ Building real-world projects
-# 🌐 Connect
-- GitHub: https://github.com/Jelamrraval - LinkedIn: https://www.linkedin.com/in/JelamRRaval # 🛠 Tech Stack
-![Skills](https://skillicons.dev/icons?i=python,django,flask,java,c,html,css,js,bootstrap,mysql,sqlite, git,github,vscode,pycharm)
-# 🚀 Featured Projects
-## 🌾 Smart Agriculture Ecosystem AI-powered agriculture platform with crop recommendation, soil analysis, government schemes, marketplace, transport booking and multilingual support.
-## 📚 Raval BookStore Online bookstore using Python Django.## 💰 Expense Tracker
-Expense manager using Flask & CSV.
-## 🎓 QuizFusion
-Responsive MCQ quiz platform.
-# 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-
-stats.vercel.app/api?username=Jelamrraval&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-
-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-# 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true"/>
-</p>
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jelamrraval&theme=tokyonight&no-
-frame=true"/>
-</p>
-# 📊 Activity Graph
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-
-night)
-# 🐍 Contribution Snake
-After creating `.github/workflows/snake.yml`, use:
-```md
-![Snake](https://raw.githubusercontent.com/Jelamrraval/Jelamrraval/output/github-contribution-grid-
-snake-dark.svg)
-```Workflow:
-```yaml
-name: Generate Snake
-on:
-schedule:
-- cron: "0 */12 * * *"
-workflow_dispatch:
-jobs:
-build:
-runs-on: ubuntu-latest
-steps:
-- uses: Platane/snk@v3
-with:
-github_user_name: Jelamrraval
-outputs: |
-dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-- uses: crazy-max/ghaction-github-pages@v3
-with:
-target_branch: output
-build_dir: dist
-env:
-```
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-# 📜 Certifications
-- Machine Learning with AI (NSDC)
-- Git & GitHub
-- Data Science & Data Analytics
-- Generative AI
-- Cybersecurity
-- Digital Forensics
-- Project Management (Agile)
-# 🎯 Goals
-- Master Python & Django
-- Become Full Stack Developer
-- Learn AI & Machine Learning- Solve 300+ LeetCode Problems - Contribute to Open Source - Build impactful projects
-# 🎵 Spotify Replace with your Spotify Readme widget. # 🎨 Holopin Replace with your Holopin badge board. # 💬 Quote > "Consistency beats perfection." --⭐ If you like my work, consider starring my repositories!
-
-
-
 # 💫 About Me:
 Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
 * 💻 Passionate about Web Development, Software Engineering & Artificial Intelligence
@@ -90,6 +13,8 @@ Hi, I'm Jelam Raval.<br><br>* 🎓 Computer Engineering Student
 * ✨ Combining technology, creativity, consistency, and community engagement
 * 🎯 Aspiring Software Engineer committed to lifelong learning and professional growth
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
+  
 ## 💼 Experience
 
 -  Python with Django Internship Certificate
