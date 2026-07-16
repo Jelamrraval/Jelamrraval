@@ -44,3 +44,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=Jelamrraval&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Jelamrraval&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jelamrraval&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 📊 GitHub Contributions
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jelamrraval&theme=tokyonight&hide_border=true" />
