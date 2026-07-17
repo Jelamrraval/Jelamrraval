@@ -46,30 +46,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jelamrraval&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# <h1 align="center">Hi 👋, I'm Jelam Raval</h1>
-
-<h3 align="center">💻 Diploma Computer Engineering Student | 🌾 AI & Web Developer | 🚀 Open Source Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/Jelamrraval">
-    <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 [![Jelam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true)](https://github.com/Jelamrraval)
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jelamrraval&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 
 ## 🎯 2026 Goals
