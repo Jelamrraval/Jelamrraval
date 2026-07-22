@@ -53,7 +53,7 @@
 ---
 
 
-
+## 🎯 2026 Goals
 - ✅ Build More AI Projects
 - ✅ Master Django & Full Stack Development
 - ✅ Contribute to Open Source
