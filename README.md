@@ -36,7 +36,7 @@
 
 I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjoy the most—it keeps everything in one place and lets me focus on building rather than organizing.
 
-> "Judge my code by what it creates, not by how many files it has."
+**"Judge my code by what it creates, not by how many files it has."**
 
 ---
 
