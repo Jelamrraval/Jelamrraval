@@ -24,9 +24,12 @@
 -  Deloitte Cyber 
 -  Machine Learning with AI (NSDC)
 
+---
+
 ### Fun Fact
 
 * 🌷 Alongside coding and technology, I enjoy creating devotional content, documenting my learning journey, and continuously improving both my technical and personal skills. 🚀
+
 ---
 
 ### 💻 My Coding Style
