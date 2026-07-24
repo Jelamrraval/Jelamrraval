@@ -27,6 +27,15 @@
 ### Fun Fact
 
 * 🌷 Alongside coding and technology, I enjoy creating devotional content, documenting my learning journey, and continuously improving both my technical and personal skills. 🚀
+---
+
+### 💻 My Coding Style
+
+I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjoy the most—it keeps everything in one place and lets me focus on building rather than organizing.
+
+> "Judge my code by what it creates, not by how many files it has."
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DivineDiary.JR)
