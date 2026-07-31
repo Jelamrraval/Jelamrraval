@@ -20,6 +20,12 @@
 - 🎯 Aspiring Software Engineer with a strong interest in Full-Stack Development, AI, and emerging technologies
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=👀%20Profile%20Views&color=00C853&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Jelamrraval?label=🤝%20Followers&color=8E24AA&logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&label=⭐%20Stars&color=FB8C00&logo=github&logoColor=white&style=for-the-badge" />
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
   
