@@ -104,7 +104,7 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ---
 
-## ---
+## 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" width="60%" alt="Profile Summary" />
