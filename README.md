@@ -47,14 +47,6 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 
 ---
 
-## 🌐 Socials
-<p>
-  <a href="https://instagram.com/DivineDiary.JR"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/JelamRRaval"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://youtube.com/@DivineDiary.JR_YT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
-
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -123,6 +115,15 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 - ✅ Contribute to Open Source
 - ✅ Improve DSA & Problem Solving
 - ✅ Crack DDCET with Excellent Rank
+
+
+## 🌐 Socials
+<p>
+  <a href="https://instagram.com/DivineDiary.JR"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/JelamRRaval"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://youtube.com/@DivineDiary.JR_YT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
 
 ## ⭐ Thanks for Visiting!
 
