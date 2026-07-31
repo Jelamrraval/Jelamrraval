@@ -63,6 +63,40 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 [![Jelam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true)](https://github.com/Jelamrraval)
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=500&color=00B4FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Computer+Engineering+Student;Python+%26+Django+Developer;Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Jelamrraval">
+    <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&color=00B4FF&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Jelamrraval?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jelamrraval?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  </a>
+  <a href="https://github.com/Jelamrraval?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Jelamrraval?label=Total+Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  </a>
+</p>
+
+---
+
+## 👥 Visitor Stats
+
+<p align="center">
+  <a href="https://github.com/Jelamrraval">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" width="80%" alt="Profile Summary" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jelamrraval&theme=react" height="160" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jelamrraval&theme=react" height="160" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" height="160" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jelamrraval&theme=react" height="160" alt="Productive Time" />
+</p>
+
+---
 
 
 ## 🎯 2026 Goals
