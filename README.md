@@ -9,7 +9,7 @@
 - 💻 Passionate about Software Development, Web Development, Artificial Intelligence, and Machine Learning
 - 🚀 Currently learning Full-Stack Development with Python & Django
 - 🌐 Skilled in HTML, CSS, JavaScript, Python, Java, C, SQL, and Object-Oriented Programming (OOP)
-- 📚 Certified in Git & GitHub, NSDC Certified in Machine Learning with AI, Data Science & Data Analytics
+- 📚 Certified in Git & GitHub, **NSDC Certified in Machine Learning with AI**, Data Science & Data Analytics
 - 🤖 Certified in Generative AI, Critical Thinking in AI, Cybersecurity Awareness, and Digital Forensics
 - 📋 Certified in Project Management, Leadership, English Communication, and Professional Skills
 - 🛠️ Building real-world projects to strengthen software development and problem-solving skills
@@ -18,6 +18,9 @@
 - 📿 Creator of a devotional content platform that shares spiritual and inspirational content
 - ✨ Combining technology, creativity, consistency, and community engagement
 - 🎯 Aspiring Software Engineer with a strong interest in Full-Stack Development, AI, and emerging technologies
+
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
   
 ## 💼 Experience
