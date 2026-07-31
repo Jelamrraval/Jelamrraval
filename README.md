@@ -2,23 +2,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=500&color=00B4FF&center=true&vCenter=true&width=750&lines=Hii+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Python+%26+Django+Developer;Machine+Learning+%26+AI+Learner;Tech+%26+Web+Development+Enthusiast" alt="Typing SVG" />
 </h1>
 
+# 💫 About Me
 
-# 💫 About Me:
-**Hi, I'm Jelam Raval.**
-<br><br> **🎓 Computer Engineering Student**
-* 💻 Passionate about Web Development, Software Engineering & Artificial Intelligence
-* 🚀 Currently learning Full-Stack Development with Python & Django
-* 🌐 Skilled in HTML, CSS, JavaScript, Python, Java, C Programming, SQL & Object-Oriented Programming (OOP)
-* 📚 Certified in Git & GitHub Expert, **NSDC (National Skill Development Corporation) Certified in Machine Learning with AI**, Data Science & Data Analytics
-* 🤖 Certified in Generative AI, Critical Thinking in AI, Cybersecurity Awareness & Digital Forensics
-* 📋 Certified in Project Management, Efficient Leadership, English Communication & Professional Skills
-* 🛠️ Building real-world projects to strengthen software development expertise
-* 📈 Focused on continuous learning, problem-solving, and hands-on experience
-* 🤝 Interested in collaboration, innovation, and meaningful technology projects
-* 📿 Creator of a devotional content platform sharing spiritual and inspirational content
-* ✨ Combining technology, creativity, consistency, and community engagement
-* 🎯 Aspiring Software Engineer committed to lifelong learning and professional growth
+🎓 **Computer Engineering Student**
 
+- 💻 Passionate about Software Development, Web Development, Artificial Intelligence, and Machine Learning
+- 🚀 Currently learning Full-Stack Development with Python & Django
+- 🌐 Skilled in HTML, CSS, JavaScript, Python, Java, C, SQL, and Object-Oriented Programming (OOP)
+- 📚 Certified in Git & GitHub, NSDC Certified in Machine Learning with AI, Data Science & Data Analytics
+- 🤖 Certified in Generative AI, Critical Thinking in AI, Cybersecurity Awareness, and Digital Forensics
+- 📋 Certified in Project Management, Leadership, English Communication, and Professional Skills
+- 🛠️ Building real-world projects to strengthen software development and problem-solving skills
+- 📈 Passionate about continuous learning, innovation, and hands-on development
+- 🤝 Open to collaboration on impactful software and AI projects
+- 📿 Creator of a devotional content platform that shares spiritual and inspirational content
+- ✨ Combining technology, creativity, consistency, and community engagement
+- 🎯 Aspiring Software Engineer with a strong interest in Full-Stack Development, AI, and emerging technologies
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
   
 ## 💼 Experience
