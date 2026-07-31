@@ -160,6 +160,32 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=github_dark" width="100%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jelamrraval&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="100%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+<br>
+
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
