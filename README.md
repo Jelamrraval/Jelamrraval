@@ -32,7 +32,73 @@
 -  Machine Learning with AI (NSDC)
 
 ---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<p align="center" width="100%">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Jelamrraval" alt="GitHub Insights" />
+</p>
+
+<!--
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=github_dark" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="500" height="220"/>
+
+</td>
+</tr>
+</table>
+-->
+
+</div>
+
+<br>
+
+<div align="center">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+</div>
+
+<div align="center">
+
+<svg width="600" height="80" viewBox="0 0 600 80">
+  <path id="wavePath" d="M0,40 C100,10 200,70 300,40 C400,10 500,70 600,40" fill="transparent"/>
+
+  <text font-size="52" font-weight="bold" fill="#1E90FF">
+    <textPath href="#wavePath" startOffset="50%" text-anchor="middle">
+      THANKS FOR VISITING
+    </textPath>
+  </text>
+</svg>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:0099FF,100:66CCFF&height=120&section=footer"/>
+
+</div>
 ### Fun Fact
 
 * 🌷 Alongside coding and technology, I enjoy creating devotional content, documenting my learning journey, and continuously improving both my technical and personal skills. 🚀
