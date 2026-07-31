@@ -21,13 +21,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Jelamrraval?label=Followers&style=for-the-badge&color=E91E63&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&label=Stars&style=for-the-badge&color=FFC107&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Profile%20Views-100+-2196F3?style=for-the-badge&logo=eye&logoColor=white" />
-</p>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
   
 ## 💼 Experience
