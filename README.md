@@ -78,3 +78,15 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
+
+## ⭐ Thanks for Visiting!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:00C853&height=120&section=footer"/>
+</p>
+
+## ⭐ Thanks for Visiting!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:06B6D4,100:22C55E&height=120&section=footer"/>
+</p>
