@@ -90,10 +90,7 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jelamrraval&theme=react" height="160" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jelamrraval&theme=react" height="160" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" height="160" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jelamrraval&theme=react" height="160" alt="Productive Time" />
 </p>
 
 ---
