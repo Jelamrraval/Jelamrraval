@@ -63,9 +63,7 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 [![Jelam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true)](https://github.com/Jelamrraval)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DurvaChauhan/DurvaChauhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+
 
 ## 🎯 2026 Goals
 - ✅ Build More AI Projects
