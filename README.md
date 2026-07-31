@@ -164,26 +164,41 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=github_dark" width="100%" />
+<!--
+<table>
+<tr>
+<td width="50%">
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jelamrraval&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</td>
 
-<br><br>
+<td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true" width="100%" height="220"/>
 
-<br><br>
+</td>
+</tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="100%" />
+<tr>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="100%" height="220"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="500" height="220"/>
+
+</td>
+</tr>
+</table>
+-->
 
 </div>
 
 <br>
-
-
 
 
 ## 🌐 Connect With Me
