@@ -122,6 +122,11 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" height="160" alt="Stats" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" height="200" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" height="200" alt="Stats" />
+</p>
 ---
 
 ## 🎯 2026 Goals
