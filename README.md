@@ -111,12 +111,6 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ---
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jelamrraval&theme=react" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" width="32%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jelamrraval&theme=react" width="32%">
-</p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" height="200" alt="Profile Summary" />
