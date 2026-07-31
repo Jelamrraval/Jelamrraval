@@ -103,51 +103,10 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<p align="center" width="100%">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Jelamrraval" alt="GitHub Insights" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" width="60%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" width="35%" alt="Stats" />
 </p>
-
-<!--
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=github_dark" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true" width="100%" height="220"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="100%" height="220"/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="500" height="220"/>
-
-</td>
-</tr>
-</table>
--->
-
-</div>
-
-<br>
-
 
 ---
 
