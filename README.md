@@ -105,12 +105,13 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 ---
 
 ## 
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" width="60%" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" width="35%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jelamrraval&theme=react" width="65%" alt="Profile Summary" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jelamrraval&theme=react" width="45%" alt="GitHub Stats" />
+</p>
 ---
 
 ## 🎯 2026 Goals
