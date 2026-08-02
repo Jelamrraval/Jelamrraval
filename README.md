@@ -104,6 +104,13 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ---
 
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DurvaChauhan&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 ## 🎯 2026 Goals
 - ✅ Build More AI Projects
