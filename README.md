@@ -1,8 +1,4 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=500&color=00B4FF&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Python+%26+Django+Developer;NSDC-Certified+in+Machine+Learning+with+AI;Tech+%26+Web+Development+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=500&color=A020F0&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Python+%26+Django+Developer;NSDC-Certified+in+Machine+Learning+with+AI;Tech+%26+Web+Development+Enthusiast" alt="Typing SVG" />
 </h1>
 
