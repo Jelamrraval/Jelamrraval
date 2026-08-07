@@ -115,6 +115,11 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🎯 2026 Goals
 - ✅ Build More AI Projects
