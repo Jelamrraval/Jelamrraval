@@ -108,14 +108,13 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 
 <p align="center">
  
-  <img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Jelamrraval&theme=tokyonight&hide_border=true" width="49%" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JelamRRaval&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JelamRRaval&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ## 🎯 2026 Goals
 - ✅ Build More AI Projects
