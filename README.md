@@ -21,6 +21,11 @@
 
 ---
 
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD166)](https://github.com/Jelamrraval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/JelamRRaval)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF7A7A)](https://instagram.com/DivineDiary.JR)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4D4D)](https://youtube.com/@DivineDiary.JR_YT)
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
   
 ## 💼 Experience
