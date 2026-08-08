@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=500&color=A020F0&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Python+%26+Django+Developer;NSDC-Certified+in+Machine+Learning+with+AI;Tech+%26+Web+Development+Enthusiast" alt="Typing SVG" />
 </h1>
 
+### Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD166)](https://github.com/Jelamrraval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/JelamRRaval)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF7A7A)](https://instagram.com/DivineDiary.JR)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4D4D)](https://youtube.com/@DivineDiary.JR_YT)
+
+ 
 # 💫 About Me
 
 🎓 **Computer Engineering Student**
@@ -21,11 +28,6 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD166)](https://github.com/Jelamrraval)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/JelamRRaval)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF7A7A)](https://instagram.com/DivineDiary.JR)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4D4D)](https://youtube.com/@DivineDiary.JR_YT)
- 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
   
 ## 💼 Experience
@@ -129,22 +131,6 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 - ✅ Crack DDCET with Excellent Rank
 
 ---
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/JelamRRaval">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/DivineDiary.JR">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@DivineDiary.JR_YT">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
 
 ## ⭐ Thanks for Visiting!
 
