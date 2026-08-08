@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=500&color=A020F0&center=true&vCenter=true&width=900&lines=Hii+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Python+%26+Django+Developer;NSDC-Certified+in+Machine+Learning+with+AI;Tech+%26+Web+Development+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<div align=center>
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD166)](https://github.com/Jelamrraval)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/JelamRRaval)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF7A7A)](https://instagram.com/DivineDiary.JR)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4D4D)](https://youtube.com/@DivineDiary.JR_YT)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFD166)](https://github.com/Jelamrraval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=2DD4BF)](https://www.linkedin.com/in/JelamRRaval)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge\&logo=instagram\&logoColor=FF7A7A)](https://instagram.com/DivineDiary.JR)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge\&logo=youtube\&logoColor=FF4D4D)](https://youtube.com/@DivineDiary.JR_YT)
+
 </div>
- 
+
 # 💫 About Me
 
 🎓 **Computer Engineering Student**
