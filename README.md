@@ -21,6 +21,8 @@
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
+  
 ## 💼 Experience
 
 -  Python with Django Internship Certificate
@@ -141,8 +143,6 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 
 ## ⭐ Thanks for Visiting!
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F2E,100:0D1117&height=120&section=footer"/>
-
-<sub>Jelam Raval · coding with purpose, building with consistency 🌷</sub>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:EC4899,50:8B5CF6,75:14B8A6,100:22C55E&height=120&section=footer"/>
+</p>
