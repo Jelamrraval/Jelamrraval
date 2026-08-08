@@ -30,7 +30,6 @@
 -  Tata Data Visualisation
 -  Deloitte Cyber 
 -  Machine Learning with AI (NSDC)
-
 ---
 
 ### Fun Fact
