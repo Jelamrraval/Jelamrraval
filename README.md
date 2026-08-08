@@ -20,12 +20,7 @@
 - 🎯 Aspiring Software Engineer with a strong interest in Full-Stack Development, AI, and emerging technologies
 
 ---
-<div align="center">
-<sub>📿 &nbsp;Also creates devotional & inspirational content on the side — tech and purpose, side by side.</sub>
-</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jelamrraval&label=Profile+Views&style=for-the-badge"/> <img src="https://img.shields.io/github/followers/Jelamrraval?style=for-the-badge"/> <img src="https://img.shields.io/github/stars/Jelamrraval?affiliations=OWNER&style=for-the-badge"/>
-  
 ## 💼 Experience
 
 -  Python with Django Internship Certificate
