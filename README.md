@@ -146,3 +146,215 @@ I prefer writing HTML with embedded CSS and JavaScript. It's the workflow I enjo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,25:EC4899,50:8B5CF6,75:14B8A6,100:22C55E&height=120&section=footer"/>
 </p>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F2E,100:0D1117&height=200&section=header&text=JELAM%20RAVAL&fontSize=52&fontColor=FFD166&fontAlignY=40&desc=Python%20%26%20Django%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descColor=2DD4BF&animation=fadeIn" width="100%" alt="header"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2DD4BF&center=true&vCenter=true&width=780&lines=Hii+%F0%9F%91%8B%2C+I'm+Jelam+Raval;Computer+Engineering+Student;Python+%26+Django+Developer;NSDC+Certified+%E2%80%94+Machine+Learning+with+AI;Building+with+Code%2C+Creativity+%26+Consistency" alt="Typing SVG" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD166)](https://github.com/Jelamrraval)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/JelamRRaval)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF7A7A)](https://instagram.com/DivineDiary.JR)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4D4D)](https://youtube.com/@DivineDiary.JR_YT)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 🧠 &nbsp;About Me
+
+```yaml
+name: Jelam Raval
+role: Computer Engineering Student
+focus: Full-Stack Development with Python & Django
+currently_learning: [Full-Stack Django, DSA, Open Source Contribution]
+interests: [Software Development, Web Development, AI, Machine Learning]
+languages_spoken_in_code: [HTML, CSS, JavaScript, Python, Java, C, SQL]
+philosophy: "Judge my code by what it creates, not by how many files it has."
+mission: Crack DDCET with an excellent rank while shipping real-world projects
+```
+
+<div align="center">
+<sub>📿 &nbsp;Also creates devotional & inspirational content on the side — tech and purpose, side by side.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 🏆 &nbsp;Experience & Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏢 Issued By |
+|:--|:--|
+| **Python with Django** — Internship | — |
+| **GenAI Powered Data Analytics** | Tata |
+| **Data Visualisation** | Tata |
+| **Cyber Security** | Deloitte |
+| **Machine Learning with AI** | NSDC Certified |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## ⚙️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,java,c,js,ts,bash&theme=dark" alt="languages"/>
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" alt="frontend"/>
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=dark" alt="backend"/>
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,cassandra&theme=dark" alt="databases"/>
+
+<br/><br/>
+
+**AI / ML / Data**
+<br/>
+![NumPy](https://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=numpy&logoColor=FFD166)
+![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=2DD4BF)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=FFD166)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=Matplotlib&logoColor=2DD4BF)
+![PowerBI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=FFD166)
+
+<br/><br/>
+
+**Cloud & Deploy**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,vercel&theme=dark" alt="cloud"/>
+
+<br/><br/>
+
+**Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="tools"/>
+![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=FF7A7A)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 🚀 &nbsp;Featured Projects
+
+<!--
+  Add your strongest repositories below in this format — one block per project:
+
+  ### 🔹 Project Name
+  One-line description of what it does and why it matters.
+
+  ![Tech](https://img.shields.io/badge/-Tech-0D1117?style=flat-square)
+
+  **[→ View Repository](https://github.com/Jelamrraval/REPO_NAME)**
+  **[→ Live Demo](https://your-live-link.com)**  (optional, only if deployed)
+
+  Repeat for each project, separated by a divider image.
+-->
+
+<div align="center">
+<sub>🚧 &nbsp;Project showcase coming soon — drop your repo links here to feature them.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+**[→ View all repositories](https://github.com/Jelamrraval?tab=repositories)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jelamrraval&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=2DD4BF&text_color=94a3b8&hide_rank=false" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelamrraval&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=94a3b8&langs_count=8" width="42%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Jelamrraval&theme=dark&hide_border=true&background=0D1117&stroke=1A1F2E&ring=FFD166&fire=2DD4BF&currStreakLabel=FFD166&sideLabels=94a3b8&dates=5b6b8c" width="70%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jelamrraval&theme=react-dark&bg_color=0D1117&color=FFD166&line=2DD4BF&point=FFD166&area=true&hide_border=true" width="90%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jelamrraval&color=FFD166&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 📚 &nbsp;Currently Learning
+
+<div align="center">
+
+![Full-Stack Django](https://img.shields.io/badge/-Full--Stack%20Django-1A1F2E?style=for-the-badge&logoColor=FFD166)
+![DSA](https://img.shields.io/badge/-DSA%20%26%20Problem%20Solving-1A1F2E?style=for-the-badge&logoColor=2DD4BF)
+![Open Source](https://img.shields.io/badge/-Open%20Source-1A1F2E?style=for-the-badge&logoColor=FFD166)
+![AI Projects](https://img.shields.io/badge/-AI%20Projects-1A1F2E?style=for-the-badge&logoColor=2DD4BF)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 🗺️ &nbsp;Roadmap
+
+**✅ Shipped**
+- [x] REST APIs & Authentication systems
+- [x] CMS-driven builds
+- [x] Firebase-backed apps
+- [x] SQL-driven data layers
+- [x] Real-time applications
+- [x] NSDC Machine Learning with AI Certification
+
+**🔄 In Progress**
+- [ ] Full-Stack Django mastery
+- [ ] Data Structures & Algorithms
+- [ ] Open source contributions
+- [ ] More AI/ML projects
+- [ ] Crack DDCET with an excellent rank
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD166,100:2DD4BF&height=3" width="100%" alt=""/>
+
+## 🤝 &nbsp;Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JelamRRaval)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/DivineDiary.JR)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DivineDiary.JR_YT)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jelamrraval)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F2E,100:0D1117&height=120&section=footer"/>
+
+<sub>Jelam Raval · coding with purpose, building with consistency 🌷</sub>
+</div>
