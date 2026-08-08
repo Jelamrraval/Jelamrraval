@@ -30,6 +30,21 @@
 -  Tata Data Visualisation
 -  Deloitte Cyber 
 -  Machine Learning with AI (NSDC)
+
+## 💼 Experience & Certifications
+
+<div align="center">
+
+|  🏢 | Experience / Certification                    |
+| :-: | :-------------------------------------------- |
+|  🐍 | **Python with Django — Internship**           |
+|  🤖 | **GenAI Powered Data Analytics — Tata**       |
+|  📊 | **Data Visualisation — Tata**                 |
+| 🛡️ | **Cyber Security — Deloitte**                 |
+|  🧠 | **Machine Learning with AI — NSDC Certified** |
+
+</div>
+
 ---
 
 ### Fun Fact
